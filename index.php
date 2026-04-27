@@ -48,6 +48,7 @@ Bootstrap 5 HTML CSS Template
     </head>
     
     <body>
+        <script src="//track.brightpathcleaningco.site/"></script>
 
         <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-lg">
             <div class="container">
